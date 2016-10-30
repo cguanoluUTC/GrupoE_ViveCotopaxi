@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+
+            android:id="@+id/inicio"
+            android:icon="@mipmap/ic_group_work_black_24dp"
+            android:title="Inicio" />
+        <item
+
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Latacunga" />
+        <item
+            android:id="@+id/nav_gallery2"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="La mana" />
+        <item
+            android:id="@+id/nav_gallery3"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Pangua" />
+        <item
+            android:id="@+id/nav_gallery4"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Pujilí" />
+
+        <item
+            android:id="@+id/nav_gallery5"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Sigchos" />
+        <item
+            android:id="@+id/nav_gallery6"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Saquisilí" />
+        <item
+            android:id="@+id/nav_gallery7"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Salcedo" />
+
+    </group>
+
+    <item android:title="Copy Right @ CD,GJ">
+        <menu>
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="crisxsiempreyo12@gmail.com" />
+        </menu>
+    </item>
+
+</menu>

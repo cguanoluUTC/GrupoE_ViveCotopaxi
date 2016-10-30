@@ -1,0 +1,14 @@
+La aplicacion en si se llama Cotopaxi 
+Donde encontraran la interfaz 
+Para modificar abran el proyecto en Android Studio despues de clonar en donde tienen todos sus poryectos de Android Studio 
+Realicen la Modificacion y hagan los comits a mi rama llamada GrupoE_ViveCotopaxi
+Ojo 
+Cada una debe crear una rama y asi trabajar en el proyecto  con su rama 
+Los commits deben hacerse de su rama a mi rama fijarse en eso 
+Estos commits deben crearse con Vesion_0.0_NombreRama_Descripcion Ejemplo (Version_0.1_David_Cambio de Interfaz) 
+
+Ya no es necesario crear otra carpeta solo deben crear la rama suya y modificar el proyecto general 
+Por ultimo les dejo una crpeta llamada APK donde se encuentra nuestro app de la aplicacion para que instalen en su telefono 
+
+
+Buena Suerte :) Att: Ing. David Guanoluisa  :) 
