@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
         <item
@@ -23,7 +24,7 @@
         <item
             android:id="@+id/nav_gallery4"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Pujilí" />
+            android:title="Pujilì" />
 
         <item
             android:id="@+id/nav_gallery5"
@@ -40,13 +41,13 @@
 
     </group>
 
-    <item android:title="Copy Right @ CD,GJ">
+    <item android:title="Copy Right @ CD..GJ">
         <menu>
 
             <item
                 android:id="@+id/nav_send"
                 android:icon="@drawable/ic_menu_send"
-                android:title="crisxsiempreyo12@gmail.com" />
+                android:title="cotopaxi.vive@gmail.com" />
         </menu>
     </item>
 
