@@ -59,7 +59,7 @@
                 </LinearLayout>
 
                 <TextView
-                    android:text="                     !...Sus siete maravillas...!"
+                    android:text="                     !....Sus siete maravillas....!"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView2"
@@ -112,7 +112,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="La Mana"
+                    android:text="La Manà"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
                 <TextView
@@ -131,7 +131,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="Pujilí"
+                    android:text="Pujilì"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
 
@@ -193,7 +193,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="Saquisilí"
+                    android:text="Saquisilì"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
             </LinearLayout>
