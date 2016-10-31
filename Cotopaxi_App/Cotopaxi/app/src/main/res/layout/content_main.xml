@@ -93,7 +93,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="LATACUNGA"
+                    android:text="Latacunga"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
 
@@ -112,7 +112,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="LA MANA"
+                    android:text="La Manà"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
                 <TextView
@@ -131,7 +131,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="PUJILI"
+                    android:text="Pujilì"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
 
@@ -153,7 +153,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="PANGUA"
+                    android:text="Pangua"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
 
@@ -173,7 +173,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="SIGCHOS"
+                    android:text="Sigchos"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
 
@@ -193,7 +193,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="SAQUISILÌ"
+                    android:text="Saquisilì"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
             </LinearLayout>
@@ -225,7 +225,7 @@
                     android:background="@drawable/btn_circle_default"
                     android:drawableTop="@mipmap/ic_location_city_white_24dp"
 
-                    android:text="SALCEDO"
+                    android:text="Salcedo"
                     android:textAppearance="@style/TextAppearance.AppCompat.Body2"
                     android:textColor="@android:color/background_light" />
 
