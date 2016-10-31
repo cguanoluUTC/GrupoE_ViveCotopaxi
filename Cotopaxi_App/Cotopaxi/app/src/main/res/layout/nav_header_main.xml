@@ -13,7 +13,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:theme="@style/ThemeOverlay.AppCompat.Dark"
     android:weightSum="1">
-
+    <!--Aqui configuramos o diseñamos el logo y color del menu despleglabe  -->
     <ImageView
         android:layout_width="91dp"
         android:layout_height="0dp"
@@ -30,7 +30,7 @@
         android:textSize="@dimen/activity_vertical_margin"
         android:textColor="@android:color/background_light"
         android:textIsSelectable="false" />
-
+    <!--Texto del menu despleglabe -->
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
