@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <!--este es el xml por defecto para generar el menu despleglable donode esta un menu y sub menu -->
     <group android:checkableBehavior="single">
+        <!--Menu donde la segunda linea de codigo esta el incono que se implemento  -->
         <item
 
             android:id="@+id/inicio"
@@ -39,7 +40,7 @@
             android:title="Salcedo" />
 
     </group>
-
+    <!--Donde se enuentra el submenu y tambien con los iconos -->
     <item android:title="Copy Right @ CD,GJ">
         <menu>
 
